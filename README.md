@@ -10,7 +10,9 @@ The images provided in this repository are free to use for non-commercial purpos
 
 Here are some previews of the available images. Click on any image to view the full-size version:
 
-[![Image 1](AnyTone AT-D878UVII Plus High Resolution Pictures/IMG_2728.jpeg)](AnyTone AT-D878UVII Plus High Resolution Pictures/IMG_2728.jpeg)
+<a href="AnyTone AT-D878UVII Plus High Resolution Pictures/IMG_2728.jpeg" target="_blank">
+    <img src="AnyTone AT-D878UVII Plus High Resolution Pictures/IMG_2728.jpeg" width="1000"/>
+</a>
 
 ## Contact
 
