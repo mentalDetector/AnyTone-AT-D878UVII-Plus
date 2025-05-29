@@ -6,16 +6,6 @@ In this repository you will find high-resolution images of the AnyTone AT-D878UV
 
 The images provided in this repository are free to use for non-commercial purposes. Please credit the source when using the images.
 
-## Images
-
-Here are some previews of the available images. Click on any image to view the full-size version:
-
-<a href="AnyTone AT-D878UVII Plus High Resolution Pictures/IMG_2728.jpeg" target="_blank">
-    <img src="AnyTone AT-D878UVII Plus High Resolution Pictures/IMG_2728.jpeg" width="1000"/>
-</a>
-
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me via GitHub.
-
-Thank you for your interest!
